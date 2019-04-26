@@ -15,7 +15,7 @@ Description of the contents:
 The images 1.jpg and 2.jpg form a stereo image pair which are used as an input image to generate a depth map image. The depth map is Depth.png.
 
 The code for generating the disparity map image (or a depth map) is named as Depth.py.
-The code for generating point cloud is named as Point_Cloud_Generation. 
+The code for generating point cloud is named as Point_Cloud_Generation.py.
 
 The generated point cloud is saved in the .ply format and is diaplayed in the software named MeshLab. This software is used to display the 3d meshes.
 
